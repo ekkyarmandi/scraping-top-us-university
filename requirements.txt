@@ -1,0 +1,2 @@
+jmespath==1.0.1
+Scrapy==2.11.0
